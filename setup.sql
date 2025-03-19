@@ -1,4 +1,4 @@
-USE secure-database-1;
+USE myappdb;
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,
